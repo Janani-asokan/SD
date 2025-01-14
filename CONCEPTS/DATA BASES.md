@@ -68,6 +68,22 @@
 
 ---
 
+**Used By:**  
+- **Client**:  
+  The client device (like a web browser, mobile app, or desktop application) uses the presentation layer to display data and allows users to interact with the system.
+  - Example: A student viewing event details or registering for an event interacts with this layer.
+
+- **Server** (limited role in presentation):  
+  The server sends data to the client for rendering, but it does not directly use or display the presentation layer. However, it may generate dynamic content used by the client-side app layer.
+
+### **Summary**
+| **Layer**              | **Who Uses It**                     |
+|------------------------|--------------------------------------|
+| **Presentation Layer** | Client (User interface)              |
+| **Application Layer**  | Client (Logic on client-side)        |
+| **Data/Backend Layer** | Server (Processing and data storage) |
+
+
 #### **6. How do communication protocols like HTTP and WebSocket differ?**
    **Answer**: HTTP is stateless and used for requests/responses (e.g., browsing websites), while WebSocket enables real-time, two-way communication (e.g., chat apps like WhatsApp).
 
