@@ -1,4 +1,15 @@
+If you want to get good at System Design in ~6 weeks, stop randomly watching videos.
+Study real systems.
+ 
+ While working across Amazon → Salesforce → Microsoft, one thing became very clear to me:
+
+You don’t learn system design by memorizing terms like load balancer, cache, sharding, queues.
+
+You learn it by breaking down how real-world products actually work.
+
+
 Here are 21 system design case studies that will sharpen your thinking:
+
 1️⃣ How WhatsApp Works
 
 ↳ https://lnkd.in/eU2fswMi
