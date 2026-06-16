@@ -1,8 +1,12 @@
 Here are 21 system design case studies that will sharpen your thinking:
 1️⃣ How WhatsApp Works
+
 ↳ https://lnkd.in/eU2fswMi
+
 2️⃣ How Amazon S3 Works
+
 ↳ https://lnkd.in/e2p7qXri
+
 3️⃣ How Uber Finds Nearby Drivers
 ↳ https://lnkd.in/eeqH9Hjh
 4️⃣ How Google Docs Works
