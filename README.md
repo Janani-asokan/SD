@@ -8,42 +8,79 @@ Here are 21 system design case studies that will sharpen your thinking:
 ↳ https://lnkd.in/e2p7qXri
 
 3️⃣ How Uber Finds Nearby Drivers
+
 ↳ https://lnkd.in/eeqH9Hjh
+
 4️⃣ How Google Docs Works
+
 ↳ https://lnkd.in/ehPNA7Az
+
 5️⃣ How Spotify Works
+
 ↳ https://lnkd.in/eGbWVeNW
+
 6️⃣ How URL Shortener Works
+
 ↳ https://lnkd.in/evFTZVQq
+
 7️⃣ How Kafka Works
+
 ↳ https://lnkd.in/eTtVAjTg
+
 8️⃣ How YouTube Works
+
 ↳ https://lnkd.in/e7q9F4Sg
+
 9️⃣ How Reddit Works
+
 ↳ https://lnkd.in/egmm_P7a
+
 🔟 How Uber Computes ETA
+
 ↳ https://lnkd.in/eVKV2ePC
+
 1️⃣1️⃣ How Payment Systems Work
+
 ↳ https://lnkd.in/ecVw7jfi
+
 1️⃣2️⃣ How Slack Works
+
 ↳ https://lnkd.in/eATMDjrK
+
 1️⃣3️⃣ How Google Search Works
+
 ↳ https://lnkd.in/exsvNqFn
+
 1️⃣4️⃣ How Tinder Works
+
 ↳ https://lnkd.in/en65fv-W
+
 1️⃣5️⃣ How Twitter Timeline Works
+
 ↳ https://lnkd.in/eniXMPfU
+
 1️⃣6️⃣ How Airbnb Works
+
 ↳ https://lnkd.in/dGVfstQM
+
 1️⃣7️⃣ How Amazon Lambda Works
+
 ↳ https://lnkd.in/eNd3Z5Yn
+
 1️⃣8️⃣ How Stock Exchange Works
+
 ↳ https://lnkd.in/eNf2QxVZ
+
 1️⃣9️⃣ How LLMs like ChatGPT Actually Work
+
 ↳ https://lnkd.in/eSd6fS7n
+
 2️⃣0️⃣ How AirTags Work
+
 ↳ https://lnkd.in/ec75eiCH
+
 2️⃣1️⃣ How Bluesky Works
+
 ↳ https://lnkd.in/eEhB8V_k
 
 💡 Pro tip:
